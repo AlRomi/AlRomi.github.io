@@ -1,4 +1,4 @@
-jQuery(document).ready(function($){
+
 	//this is used for the video effect only
 	/*
 تسبيح	
@@ -33,4 +33,4 @@ function switchWord($oldWord, $newWord) {
 تسبيح	
 	*/
 
-});
+
