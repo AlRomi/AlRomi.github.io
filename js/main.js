@@ -11,7 +11,8 @@ jQuery(document).ready(function($){
 			video.get(0).play();
 		}
 	}
-	/*
+});
+/*
 تسبيح	
 	*/
 var animationDelay = 2500;
@@ -43,4 +44,3 @@ function switchWord($oldWord, $newWord) {
 	/*
 تسبيح	
 	*/
-});
